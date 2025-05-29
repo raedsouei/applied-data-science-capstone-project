@@ -1,3 +1,3 @@
 # applied-data-science-capstone-project
-Part of my submission for Course 10.
+Part Of My Submission For Course 10.
 SOUEI RAED.
